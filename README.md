@@ -17,6 +17,8 @@
   - Draw Hand and Made Hand
 - [05. Scientific Tarot: Reading Hands and Strategies](chapter05/main.md)
   - Hand reading
+- [06.The Tells are in the Data: Topics in Online Poker](chapter06/main.md)
+  - Online Poker
 
 ### Part3. Optimal Play
 
