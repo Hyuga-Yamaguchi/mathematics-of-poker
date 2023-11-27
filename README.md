@@ -10,6 +10,14 @@
   - Basics of statistics
   - [Note](chapter02/note.md)
 
+### Part2. Exploitive Play
+
+- [04. Playing the Odds: Pot Odds and Implied Odds](chapter04/main.md)
+  - Pot Odds (and Implied Odds)
+  - Draw Hand and Made Hand
+- [05. Scientific Tarot: Reading Hands and Strategies](chapter05/main.md)
+  - Hand reading
+
 ### Part3. Optimal Play
 
 - [11. One Side of the Street: Half-Street Games](chapter11/main.md)
