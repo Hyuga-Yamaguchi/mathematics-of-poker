@@ -9,6 +9,9 @@
 - [02. Predicting the Future: Variance and Sample Outcomes](chapter02/main.md)
   - Basics of statistics
   - [Note](chapter02/note.md)
+- [03. Using All the Information: Estimating Parameters and Bayes' Theorem](chapter03/main.md)
+  - Bayesian inference
+  - [Note](chapter03/note.md)
 
 ### Part2. Exploitive Play
 
