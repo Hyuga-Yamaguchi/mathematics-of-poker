@@ -22,8 +22,10 @@
   - Hand reading
 - [06.The Tells are in the Data: Topics in Online Poker](chapter06/main.md)
   - Online Poker
-- [07. Playing Accurately, Part I: Cards Exposed Situations](chapter07/main.md)
+- [07. Playing Accurately, Psart I: Cards Exposed Situations](chapter07/main.md)
   - Pot Control
+- [08. Playing Accrately, Part Ⅱ: hand vs. Distribution](chapter08/main.md)
+  - Explout Play Basics (Hand vs Range)
 
 ### Part3. Optimal Play
 
