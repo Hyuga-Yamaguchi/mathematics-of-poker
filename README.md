@@ -25,7 +25,9 @@
 - [07. Playing Accurately, Psart I: Cards Exposed Situations](chapter07/main.md)
   - Pot Control
 - [08. Playing Accrately, Part Ⅱ: hand vs. Distribution](chapter08/main.md)
-  - Explout Play Basics (Hand vs Range)
+  - Exploitive Play Basics (Hand vs Range)
+- [09. Adaptive Play: Distribution vs. Distribution](chapter09/main.md)
+  - Exploitive Play Basics (Range vs Range)
 
 ### Part3. Optimal Play
 
