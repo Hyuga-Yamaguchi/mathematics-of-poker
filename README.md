@@ -31,6 +31,8 @@
 
 ### Part3. Optimal Play
 
+- [10. Facing The Nemesis: Game Theory](chapter10/main.md)
+  - Game Theory Basics
 - [11. One Side of the Street: Half-Street Games](chapter11/main.md)
   - AKQGame#01: Fixed Limit No-Raise Half-Street AKQ Game
   - \[0, 1\]Game#01: Fixed Limit No-Raise No-Fold Half-Street \[0, 1\]Game

@@ -1,0 +1,5 @@
+- https://ba-artworks.com/game/%E3%80%90cfr%E3%80%91%E9%AB%98%E6%A0%A1%E7%94%9F%E3%81%A7%E3%82%82%E3%82%8F%E3%81%8B%E3%82%8B%E3%80%81%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%83%85%E5%A0%B1%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E8%A7%A3/
+- https://note.com/maspy_stars/n/nb82e606801e3
+- https://note.com/b_inary/n/n4cf149934f1a
+- https://justinsermeno.com/posts/cfr/
+- https://note.com/b_inary/n/na56cc33b935e
