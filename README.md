@@ -22,6 +22,8 @@
   - Hand reading
 - [06.The Tells are in the Data: Topics in Online Poker](chapter06/main.md)
   - Online Poker
+- [07. Playing Accurately, Part I: Cards Exposed Situations](chapter07/main.md)
+  - Pot Control
 
 ### Part3. Optimal Play
 
