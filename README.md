@@ -22,11 +22,17 @@
   - Hand reading
 - [06.The Tells are in the Data: Topics in Online Poker](chapter06/main.md)
   - Online Poker
-- [07. Playing Accurately, Part I: Cards Exposed Situations](chapter07/main.md)
+- [07. Playing Accurately, Psart I: Cards Exposed Situations](chapter07/main.md)
   - Pot Control
+- [08. Playing Accrately, Part Ⅱ: hand vs. Distribution](chapter08/main.md)
+  - Exploitive Play Basics (Hand vs Range)
+- [09. Adaptive Play: Distribution vs. Distribution](chapter09/main.md)
+  - Exploitive Play Basics (Range vs Range)
 
 ### Part3. Optimal Play
 
+- [10. Facing The Nemesis: Game Theory](chapter10/main.md)
+  - Game Theory Basics
 - [11. One Side of the Street: Half-Street Games](chapter11/main.md)
   - AKQGame#01: Fixed Limit No-Raise Half-Street AKQ Game
   - \[0, 1\]Game#01: Fixed Limit No-Raise No-Fold Half-Street \[0, 1\]Game
