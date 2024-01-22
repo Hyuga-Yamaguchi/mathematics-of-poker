@@ -27,6 +27,10 @@
 
 ---
 
+<details>
+
+<summary>Answer (1)</summary>
+
 5th StreetにおけるXのEQを求める。6th, 7th StreetでYにスペードがヒットしなければよく、残りのスペードの枚数は8枚、デッキが52-10=42枚より、
 
 $1 - (\dfrac{8}{42} + \dfrac{42 - 8}{42} \cdot \dfrac{8}{41}) = 0.652$
@@ -41,6 +45,8 @@ $-60$
 
 `X: Check/Y: Bet60/X: Fold`  
 $0$
+
+</details>
 
 ### (2)
 
